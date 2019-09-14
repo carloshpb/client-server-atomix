@@ -12,7 +12,7 @@ Example project to make a simple communication between a Server and a Client wit
 
 
 1. Open your OS's terminal;
-2. Use the following bash command in the project's main folder (**_../facomsd_**) to compile the project: 
+2. Use the following bash command in the project's main folder (**_../client-server-atomix_**) to compile the project: 
    ```bash
    ./mvnw compile
    ```
