@@ -71,9 +71,7 @@ Example project to make a simple communication between a Server and a Client wit
 ## Authors
 
 **Carlos Humberto de Paula Borges**
-
 * [LinkedIn](https://www.linkedin.com/in/carloshpb/)
-
 * [GitHub](https://github.com/carloshpb)
 
 ## Acknowledgments
